@@ -11,9 +11,13 @@ Each **Cluster** has its own property
 ![Animals unsupervised learning](https://learn.g2.com/hs-fs/hubfs/unsupervised-learning.png?width=700&name=unsupervised-learning.png)
 
 **K-means Clustering** takes part in the process in the midddle
+We call the suitable number of clustering 
+
+
+**Issue 1**: Find Clustering of some data
 
 **Issue**: Find Domain of a Country\
 Suppose we have   
-&emsp; **Triangle** country <input type="image" src="https://image.pngaaa.com/107/59107-middle.png" alt="Yellow Triangle" width="40" height="40">
-
+&emsp; **Triangle** country <p><input type="image" src="https://image.pngaaa.com/107/59107-middle.png" alt="Yellow Triangle" width="40" height="40"></p>
+&emsp; **
 
